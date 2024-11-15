@@ -74,8 +74,6 @@ A more thorough description of your project. Not a full walkthrough, but describ
 3. <b>Class Workshops</b>, Spring 2019, Georgia Gwinnett College: to promote the IT field to non-IT students.
 
 ## :mag_right: Similar Projects
-<i>Use this section to link to a project done in the TAP program that is related in some way to your own. This can be a sister project done during your TAP semester or a TAP project done in the past. Example: </i> 
-
 If you're interested in more workshops that utilize Unity, check out [Slice-IT!](https://github.com/TAP-GGC/SliceIT)!
 
 ## :computer: Technology
@@ -84,9 +82,9 @@ If you're interested in more workshops that utilize Unity, check out [Slice-IT!]
   <img alt="Scratch Logo" src = "media/technology/scratch logo.png" width="200" height="200"/>
 </p>
 
-* [Unity](https://Unity.com/games) is a block-based programming language developed by the MIT Media Lab as an education tool for children to learn computing in a fun and interactive way.
-* Scratch has drag-and-drop interfaces. Unlike text-based programming language like Java or C where you physically type every line of code, in Scratch, you can drag and drop pre-made codes and organize them into an algorithm. It's like solving a jigsaw puzzle!
-* Explain why your team chose this technology for this workshop.
+* [Unity](https://Unity.com/games) is a versatile game engine for creating 2D, 3D, VR, and AR experiences across multiple platforms, using C# scripting and real-time rendering.
+* Unity uses a visual interface combined with C# scripting, letting you design game worlds and mechanics by dragging and dropping objects and components while also writing custom code for detailed control—it's like crafting your own interactive universe!
+* Unity was chosen because of its user-friendly interface and powerful tools, making it perfect for creating the game’s simple mechanics and minimalist design. Despite its simplicity, the game includes a slight challenge to engage players, which Unity’s versatility made easy to implement.
 
 <p align="center">
 <img src = "media/technology/block-based language.png" width ="400" height="200">
