@@ -64,15 +64,14 @@ You can select from a range of audiences or a single auidience. Examples:
 A more thorough description of your project. Not a full walkthrough, but describe the different sections of your project and the gist of what participants will be doing when interacting with it and what they'll learn.
 
 ## :memo: Publications
-<!-- team members, then professors/advisors. "Name of Publication", event, month and day, year, Georgia Gwinnett College. -->
-1. Team Member, Team Member, Team Member, John Doe, Jane Doe. "A Real Fake Workshop", Fake Event, April 1, 2024, Georgia Gwinnett College.  
-
+<!-- Anderson Molter, Ephraim Kim, and Ariel Thomas, under Dr. Xin Xu and Dr Wein Jin. Create Symposium, event, month and day, year, Georgia Gwinnett College. -->
+1. Anderson Molter, Ephraim Kim, Ariel Thomas, Dr. Xin Xu, and Dr Wei Jin. "Little Smash Guys", Create Symposium Event, Spring 2019, Georgia Gwinnett College.  
+1. Anderson Molter, Ephraim Kim, Ariel Thomas, Dr. Xin Xu, and Dr Wei Jin. "Little Smash Guys Demo", Stars Event, Spring 2019, Georgia Gwinnett College.
 ## :open_hands: Outreach
 
-1. <b>TAP Expo</b>, April 1, 2021, Georgia Gwinnett College: to promote the IT field and encourage college students to sign up for TAP.
-2. <b>Class Workshops</b>, April 13-15, 2021, Georgia Gwinnett College: to promote the IT field to non-IT students.
-3. <b>Atlanta Science Festival</b>
-4. <b>STARS Event</b>
+1. <b>TAP Expo</b>, Spring 2019, Georgia Gwinnett College: to promote the IT field and encourage college students to sign up for TAP.
+2. <b>Class Workshops</b>, Spring 2019, Georgia Gwinnett College: to promote the IT field to non-IT students.
+3. <b>Atlanta Science Festival</b>, Spring 2019
 
 ## :mag_right: Similar Projects
 <i>Use this section to link to a project done in the TAP program that is related in some way to your own. This can be a sister project done during your TAP semester or a TAP project done in the past. Example: </i> 
