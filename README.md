@@ -64,8 +64,8 @@ A more thorough description of your project. Not a full walkthrough, but describ
 
 ## :memo: Publications
 <!-- Anderson Molter, Ephraim Kim, and Ariel Thomas, under Dr. Xin Xu and Dr Wein Jin. Create Symposium, event, month and day, year, Georgia Gwinnett College. -->
-1. Anderson Molter, Ephraim Kim, Ariel Thomas, Dr. Xin Xu, and Dr Wei Jin. "Little Smash Guys Demo", STaRs Event, April 9th, 2019, Georgia Gwinnett College.
-2. Anderson Molter, Ephraim Kim, Ariel Thomas, Dr. Xin Xu, and Dr Wei Jin. "Little Smash Guys", Create Symposium Event, Spring 2019, Georgia Gwinnett College.  
+1. Anderson Molter, Ephraim Kim, Ariel Thomas, Dr. Xin Xu, and Dr Wei Jin. "Little Smash Guys Demo", STaRS Event, April 9th, 2019, Georgia Gwinnett College.
+2. Anderson Molter, Ephraim Kim, Ariel Thomas, Dr. Xin Xu, and Dr Wei Jin. "Little Smash Guys for outreach", CREATE Symposium, April 25th, 2019, Georgia Gwinnett College.  
 
 ## :open_hands: Outreach
 
@@ -79,7 +79,6 @@ A more thorough description of your project. Not a full walkthrough, but describ
 If you're interested in more workshops that utilize Unity, check out [Slice-IT!](https://github.com/TAP-GGC/SliceIT)!
 
 ## :computer: Technology
-<i> Replace Scratch with whatever technology you're using and make sure to have a logo of that technology uploaded to the technology folder within the media folder. </i>
 <!-- be sure to use the alt text feature in case anybody viewing your repo is using  screen reader! you want your workshop to be as accessible as possible -->
 <p align="center">
   <img alt="Scratch Logo" src = "media/technology/scratch logo.png" width="200" height="200"/>
