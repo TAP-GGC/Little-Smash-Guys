@@ -50,9 +50,9 @@ You can select from a range of audiences or a single auidience. Examples:
 > (From left to right: Ephraim Kim,  Anderson Molter, Ariel Thomas.)
 <!-- replace with full names of your team members -->
 
-* Ariel Thomas
-* Anderson Molter
 * Ephraim Kim
+* Anderson Molter
+* Ariel Thomas
 
 ## :mortar_board: Advisors
 <!-- name of the two professors overseeing your TAP class -->
