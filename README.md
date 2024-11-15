@@ -64,13 +64,14 @@ A more thorough description of your project. Not a full walkthrough, but describ
 
 ## :memo: Publications
 <!-- Anderson Molter, Ephraim Kim, and Ariel Thomas, under Dr. Xin Xu and Dr Wein Jin. Create Symposium, event, month and day, year, Georgia Gwinnett College. -->
-1. Anderson Molter, Ephraim Kim, Ariel Thomas, Dr. Xin Xu, and Dr Wei Jin. "Little Smash Guys", Create Symposium Event, Spring 2019, Georgia Gwinnett College.  
 1. Anderson Molter, Ephraim Kim, Ariel Thomas, Dr. Xin Xu, and Dr Wei Jin. "Little Smash Guys Demo", STaRs Event, April 9th, 2019, Georgia Gwinnett College.
+2. Anderson Molter, Ephraim Kim, Ariel Thomas, Dr. Xin Xu, and Dr Wei Jin. "Little Smash Guys", Create Symposium Event, Spring 2019, Georgia Gwinnett College.  
+
 ## :open_hands: Outreach
 
 1. <b>TAP Expo</b>, March 14th, 2019, Georgia Gwinnett College: to promote the IT field and encourage college students to sign up for TAP.
-2. <b>Class Workshops</b>, Spring 2019, Georgia Gwinnett College: to promote the IT field to non-IT students.
-3. <b>Atlanta Science Festival</b>, March 23rd, 2019, Georgia Gwinnett College: Promoting IT to youth 
+2. <b>Atlanta Science Festival</b>, March 23rd, 2019, Georgia Gwinnett College: Promoting IT to youth 
+3. <b>Class Workshops</b>, Spring 2019, Georgia Gwinnett College: to promote the IT field to non-IT students.
 
 ## :mag_right: Similar Projects
 <i>Use this section to link to a project done in the TAP program that is related in some way to your own. This can be a sister project done during your TAP semester or a TAP project done in the past. Example: </i> 
