@@ -1,1 +1,1 @@
-If your workshop uses something like Google Slides or Power Point, the file would go here along with any other files necessary for your doing your workshop
+This is the Original Create Symposium Presentation. Unfortunately, we do not have their workshop PowerPoint. Please refer to the Original Create Symposium Presentation for outreach events if needed. documents/workshop materials/Original Create Symposium Presentation Spring 2019.pptx
