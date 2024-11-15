@@ -4,15 +4,15 @@
 <p align="center">
   <img alt="Template Logo" src="media/logos/Transparent Version.png" width="" height="350" />
   <h1 align="center">Project Template (Example: A Game that Emphasizes the Importance of Programming Statements)</h1>
-  <p align="center">A project for ... by team ... </p>
+  <p align="center">A project for the youth by team Little Smash Guys </p>
 </p>
 <!-- the emojis are not set in stone! If you'd like you can remove them entirely or select your own from https://gist.github.com/rxaviers/7360908 you are welcome to -->
 
 ## :loudspeaker: About
-The objective of the workshop is  ...
+The objective of the workshop is to introduce participants to game development using Unity and C#, providing a solid foundation for creating interactive experiences.
 <!-- You can look at other TAP projects if you need a better idea of how to describe your workshops objectives -->
 
-This workshop has participants do ...
+This workshop has participants follow along with hands-on activities, where they build simple scenes and learn how to use Unity's tools and C# scripting to bring their ideas to life. By the end, participants will have created their own small interactive project while gaining practical skills.
 
 ## :bulb: Project Information
 <!-- 
