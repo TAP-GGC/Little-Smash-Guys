@@ -71,7 +71,7 @@ A more thorough description of your project. Not a full walkthrough, but describ
 
 1. <b>TAP Expo</b>, Spring 2019, Georgia Gwinnett College: to promote the IT field and encourage college students to sign up for TAP.
 2. <b>Class Workshops</b>, Spring 2019, Georgia Gwinnett College: to promote the IT field to non-IT students.
-3. <b>Atlanta Science Festival</b>, Spring 2019
+3. <b>Atlanta Science Festival</b>, Spring 2019, Gerogi
 
 ## :mag_right: Similar Projects
 <i>Use this section to link to a project done in the TAP program that is related in some way to your own. This can be a sister project done during your TAP semester or a TAP project done in the past. Example: </i> 
@@ -117,7 +117,6 @@ Example:
 2. Press the Right arrow key to move to the right.
 3. Press the Up arrow key to move up.
 4. Press the Down arrow key to move down.
-5. You may also replace the arrow keys with a Makey Makey. 
 
 ## Short Demo Instructions 
 [Demo Video on how to install and play our game](https://youtu.be/mA80Aa55t-U)
