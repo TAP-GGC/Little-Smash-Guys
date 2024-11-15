@@ -1,8 +1,1 @@
-You'll be creating a pdf/word document file detailing step by step instructions for every part of your workshop.
-
-Those files will be uploaded inside of the tutorial folder. There are some example files in this folder that are intentionally left blank. 
-
-<p><b>If you're using Scratch</b>, you can download and reuse the CS First files/folder so you can replace the template walkthrough with links
-to your own Scratch game. </p>
-  
-If you're not using Scratch, <b>DO NOT</b> include the CS First folder in your repository.
+As the original workshop PowerPoint is unavailable, we created this updated version based on their Create Symposium presentation.[Original Create Symposium Powerpoint](https://github.com/TAP-GGC/Little-Smash-Guys/blob/dc20ea6ed80cec5952686f7eeb9261d27db16200/documents/workshop%20materials/Original%20Create%20Symposium%20Presentation%20Spring%202019.pptx)
