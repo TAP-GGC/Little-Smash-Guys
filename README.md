@@ -56,22 +56,22 @@ You can select from a range of audiences or a single auidience. Examples:
 
 ## :mortar_board: Advisors
 <!-- name of the two professors overseeing your TAP class -->
-* Dr. Xin Xu
 * Dr. Wei Jin
-
+* Dr. Xin Xu
 
 ## :page_with_curl: Project Description
 A more thorough description of your project. Not a full walkthrough, but describe the different sections of your project and the gist of what participants will be doing when interacting with it and what they'll learn.
 
 ## :memo: Publications
 <!-- Anderson Molter, Ephraim Kim, and Ariel Thomas, under Dr. Xin Xu and Dr Wein Jin. Create Symposium, event, month and day, year, Georgia Gwinnett College. -->
-1. Anderson Molter, Ephraim Kim, Ariel Thomas, Dr. Xin Xu, and Dr Wei Jin. "Little Smash Guys", Create Symposium Event, Spring 2019, Georgia Gwinnett College.  
-1. Anderson Molter, Ephraim Kim, Ariel Thomas, Dr. Xin Xu, and Dr Wei Jin. "Little Smash Guys Demo", Stars Event, Spring 2019, Georgia Gwinnett College.
+1. Anderson Molter, Ephraim Kim, Ariel Thomas, Dr. Xin Xu, and Dr Wei Jin. "Little Smash Guys Demo", STaRS Event, April 9th, 2019, Georgia Gwinnett College.
+2. Anderson Molter, Ephraim Kim, Ariel Thomas, Dr. Xin Xu, and Dr Wei Jin. "Little Smash Guys for outreach", CREATE Symposium, April 25th, 2019, Georgia Gwinnett College.  
+
 ## :open_hands: Outreach
 
-1. <b>TAP Expo</b>, Spring 2019, Georgia Gwinnett College: to promote the IT field and encourage college students to sign up for TAP.
-2. <b>Class Workshops</b>, Spring 2019, Georgia Gwinnett College: to promote the IT field to non-IT students.
-3. <b>Atlanta Science Festival</b>, Spring 2019, Gerogi
+1. <b>TAP Expo</b>, March 14th, 2019, Georgia Gwinnett College: to promote the IT field and encourage college students to sign up for TAP.
+2. <b>Atlanta Science Festival</b>, March 23rd, 2019, Georgia Gwinnett College: Promoting IT to youth 
+3. <b>Class Workshops</b>, Spring 2019, Georgia Gwinnett College: to promote the IT field to non-IT students.
 
 ## :mag_right: Similar Projects
 <i>Use this section to link to a project done in the TAP program that is related in some way to your own. This can be a sister project done during your TAP semester or a TAP project done in the past. Example: </i> 
@@ -79,7 +79,6 @@ A more thorough description of your project. Not a full walkthrough, but describ
 If you're interested in more workshops that utilize Unity, check out [Slice-IT!](https://github.com/TAP-GGC/SliceIT)!
 
 ## :computer: Technology
-<i> Replace Scratch with whatever technology you're using and make sure to have a logo of that technology uploaded to the technology folder within the media folder. </i>
 <!-- be sure to use the alt text feature in case anybody viewing your repo is using  screen reader! you want your workshop to be as accessible as possible -->
 <p align="center">
   <img alt="Scratch Logo" src = "media/technology/scratch logo.png" width="200" height="200"/>
