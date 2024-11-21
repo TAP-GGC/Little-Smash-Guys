@@ -98,16 +98,26 @@ If you're interested in more workshops that utilize Unity, check out [Slice-IT!]
 ### Getting to the game 
 [Click here to view instructions](/documents/tutorial%20materials/Getting%20to%20the%20Game.md)
 
-## Usage
-<i> Describe HOW to use your game. </i> 
-Example: 
-1. Press the Left arrow key to move to the left.
+## Usage 
+Xbox Controls
+1. Analog stick to move.
+2. Y button to jump.
+3. A Button to attack.
+
+P1 Controls
+1. Press the A key to move to the left.
+2. Press the D key to move to the right.
+3. Press the Spacebar to jump.
+4. Press the Z key to attack.
+
+P2 Controls
+1. Press the Left arrow key to move to the left. 
 2. Press the Right arrow key to move to the right.
-3. Press the Up arrow key to move up.
-4. Press the Down arrow key to move down.
+3. Press the Up arrow key to jump.
+4. Press the Forward Slash key to attack.
 
 ## Short Demo Instructions 
-[Demo Video on how to install and play our game](https://youtu.be/mA80Aa55t-U)
+[Demo Video on how to install and play our game](https://github.com/TAP-GGC/Little-Smash-Guys/blob/d005490d119869d2c3d81afca5b89aa43d15a7d4/media/videos/Unity%20Hub%20Installation%20Video.mp4)
 
 ## Workshop Instructions 
 [Click here to view workshop walkthrough pdf file](/documents/tutorial%20materials/Scratch%20Workshop%20Walkthrough.pdf)
