@@ -60,8 +60,7 @@ You can select from a range of audiences or a single auidience. Examples:
 * Dr. Xin Xu
 
 ## :page_with_curl: Project Description
-A more thorough description of your project. Not a full walkthrough, but describe the different sections of your project and the gist of what participants will be doing when interacting with it and what they'll learn.
-
+Participants start by playing Little Smash Guys, a fast-paced 2-4 player battle royale game. The game emphasizes multiplayer interactions, strategic gameplay, and competitive fun. This section familiarizes participants with Unity's capabilities by showcasing mechanics, lively visuals, and engaging gameplay design. Beginners experience firsthand the elements of a completed game, such as player controls, physics interactions, and visual effects, setting the stage for the development process. After the gameplay session, participants transition into creating their own Unity game inspired by Flappy Bird. This hands-on portion introduces them to fundamental Unity concepts and tools
 ## :memo: Publications
 <!-- Anderson Molter, Ephraim Kim, and Ariel Thomas, under Dr. Xin Xu and Dr Wein Jin. Create Symposium, event, month and day, year, Georgia Gwinnett College. -->
 1. Anderson Molter, Ephraim Kim, Ariel Thomas, Dr. Xin Xu, and Dr Wei Jin. "Little Smash Guys Demo", STaRS Event, April 9th, 2019, Georgia Gwinnett College.
