@@ -108,13 +108,13 @@ P1 Controls
 1. Press the A key to move to the left.
 2. Press the D key to move to the right.
 3. Press the Spacebar to jump.
-4. Press the Z key to attack.
+4. Press the Ctrl key to attack.
 
 P2 Controls
 1. Press the Left arrow key to move to the left. 
 2. Press the Right arrow key to move to the right.
-3. Press the Up arrow key to jump.
-4. Press the Forward Slash key to attack.
+3. Press the Forward Slash key to jump.
+4. Press the Period Key to attack.
 
 ## Short Demo Instructions 
 [Demo Video on how to install and play our game](https://github.com/TAP-GGC/Little-Smash-Guys/blob/d005490d119869d2c3d81afca5b89aa43d15a7d4/media/videos/Unity%20Hub%20Installation%20Video.mp4)
