@@ -78,7 +78,7 @@ If you're interested in more workshops that utilize Unity, check out [Slice-IT!]
 ## :computer: Technology
 <!-- be sure to use the alt text feature in case anybody viewing your repo is using  screen reader! you want your workshop to be as accessible as possible -->
 <p align="center">
-  <img alt="Scratch Logo" src = "(https://github.com/TAP-GGC/Little-Smash-Guys/blob/d02b99d0b6e5eb51167be5e8a277b8584dd53ea6/media/technology/unity-69-logo-png-transparent.png)" width="200" height="200"/>
+  <img alt="Unity Logo" src = "https://github.com/TAP-GGC/Little-Smash-Guys/blob/d02b99d0b6e5eb51167be5e8a277b8584dd53ea6/media/technology/unity-69-logo-png-transparent.png" width="200" height="200"/>
 </p>
 
 * [Unity](https://Unity.com/games) is a versatile game engine for creating 2D, 3D, VR, and AR experiences across multiple platforms, using C# scripting and real-time rendering.
