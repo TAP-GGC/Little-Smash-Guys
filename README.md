@@ -3,7 +3,7 @@
 <!-- If you used Canva to make your icon and don't want to pay for a background remover, you can use the website https://www.remove.bg/ to do so -->
 <p align="center">
   <img alt="Template Logo" src="media/logos/Transparent Version.png" width="" height="350" />
-  <h1 align="center">Little Smash Guys: A Game that Showcases Chaos and Strategy in a Two to Four-Player Free-for-All Battle.</h1>
+  <h1 align="center">Little Smash Guys: A game that Showcases Chaos and Strategy in a Two to Four-Player Free-for-All Battle.</h1>
   <p align="center">A project for the youth by team Little Smash Guys </p>
 </p>
 <!-- the emojis are not set in stone! If you'd like you can remove them entirely or select your own from https://gist.github.com/rxaviers/7360908 you are welcome to -->
@@ -31,10 +31,10 @@ You can select from a range of audiences or a single auidience. Examples:
 -->
 * <b>Difficulty Level:</b> Advanced
 * <b>Target Audience:</b> K12 - College
-* <b>Duration of Workshop:</b> How long your workshop takes (1 hour, 30 minutes, etc.) 
+* <b>Duration of Workshop:</b> 60 Minutes
 * <b>Needed Materials:</b> 2 Controllers, Unity, Little Smash Guys
 * <b>Learning Outcomes:</b> The primary goal of this project is to teach participants Unity alongside basic C# code to customize their own game experience.
-* <b>Your Main Technology</b> Unity game engine is a powerful yet simple tool for game creation.
+* <b>Your Main Technology</b> Unity a game engine, that is a powerful yet simple tool for game creation.
 * [Technology Ambassador Program](https://tapggc.org/) <b>(TAP)</b> is a project-based class that provides a collaborative environment for students to work with their fellow classmates on a semester-long project using technologies of their choice. TAP strives to increase participation in IT through numerous outreach activities and workshops that are designed to showcase the creative and fun side of technology.
 <!-- Commercial Video stored in the Media folder will be linked here -->
 Commercial Video:
@@ -61,7 +61,7 @@ Commercial Video:
 * Dr. Xin Xu
 
 ## :page_with_curl: Project Description
-Participants start by playing Little Smash Guys, a fast-paced 2-4 player battle royale game. The game emphasizes multiplayer interactions, strategic gameplay, and competitive fun. This section familiarizes participants with Unity's capabilities by showcasing mechanics, lively visuals, and engaging gameplay design. Beginners experience firsthand the elements of a completed game, such as player controls, physics interactions, and visual effects, setting the stage for the development process. After the gameplay session, participants transition into creating their own Unity game inspired by Flappy Bird. This hands-on portion introduces them to fundamental Unity concepts and tools
+Participants start by playing Little Smash Guys, a fast-paced 2-4 player battle royale game. The game emphasizes multiplayer interactions, strategic gameplay, and competitive fun. This section familiarizes participants with Unity's capabilities by showcasing mechanics, lively visuals, and engaging gameplay design. Beginners experience firsthand the elements of a completed game, such as player controls, physics interactions, and visual effects, setting the stage for the development process. After the gameplay session, participants transition into creating their own Unity game inspired by Flappy Bird. This hands-on portion introduces them to fundamental Unity concepts and tools.
 ## :memo: Publications
 <!-- Anderson Molter, Ephraim Kim, and Ariel Thomas, under Dr. Xin Xu and Dr Wein Jin. Create Symposium, event, month and day, year, Georgia Gwinnett College. -->
 1. Anderson Molter, Ephraim Kim, Ariel Thomas, Dr. Xin Xu, and Dr Wei Jin. "Little Smash Guys Demo", STaRS Event, April 9th, 2019, Georgia Gwinnett College.
