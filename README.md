@@ -39,7 +39,7 @@ You can select from a range of audiences or a single auidience. Examples:
 <!-- Commercial Video stored in the Media folder will be linked here -->
 Commercial Video:
 
-<video src="https://github.com/TAP-GGC/Little-Smash-Guys/blob/33588529e2ccc8d1c526eae25b923ce93e882e3c/media/videos/Little%20Smash%20Guys%20Ad.mp4" width="352" height="720"></video>
+<video src="https://github.com/user-attachments/assets/421b5aea-a36b-400e-93c7-dc2d9db7a9a9" width="352" height="720"></video>
 
 <!-- videos can also be dragged and dropped into markdown files if you want them embedded -->
 
