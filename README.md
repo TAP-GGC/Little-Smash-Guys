@@ -93,8 +93,6 @@ If you're interested in more workshops that utilize Unity, check out [Slice-IT!]
 ## Project Setup/Installation 
 [Unity Hub Install](https://github.com/TAP-GGC/Little-Smash-Guys/blob/d005490d119869d2c3d81afca5b89aa43d15a7d4/media/videos/Unity%20Hub%20Installation%20Video.mp4)
 <!-- if your project uses scratch, you can reuse any of these instructions (be sure to include CS First alternatives) -->
-## CS First Installation Walkthrough
-[Click here to view instructions](/documents/tutorial%20materials/CS%20FIRST/CS%20First%20Walkthrough.md)
 
 ### Getting to the game 
 [Click here to view instructions](/documents/tutorial%20materials/Getting%20to%20the%20Game.md)
