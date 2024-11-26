@@ -94,8 +94,6 @@ If you're interested in more workshops that utilize Unity, check out [Slice-IT!]
 [Unity Hub Install](https://github.com/TAP-GGC/Little-Smash-Guys/blob/d005490d119869d2c3d81afca5b89aa43d15a7d4/media/videos/Unity%20Hub%20Installation%20Video.mp4)
 <!-- if your project uses scratch, you can reuse any of these instructions (be sure to include CS First alternatives) -->
 
-### Getting to the game 
-[Click here to view instructions](/documents/tutorial%20materials/Getting%20to%20the%20Game.md)
 
 ## Usage 
 Xbox Controls
@@ -116,9 +114,11 @@ P2 Controls
 4. Press the Period Key to attack.
 
 ## Short Demo Instructions 
-[Demo Video on how to install and play our game](https://github.com/TAP-GGC/Little-Smash-Guys/blob/d005490d119869d2c3d81afca5b89aa43d15a7d4/media/videos/Unity%20Hub%20Installation%20Video.mp4)
+[Demo Video on how to install and play our game](Video Link Here)
+[Click here to view instructions](https://github.com/TAP-GGC/Little-Smash-Guys/blob/0a8d931e48b042584bfe256e488536b2e437f22a/documents/tutorial%20materials/Little%20Smash%20Guys%20Short%20Demo.pdf)
 
 ## Workshop Instructions 
+[Workshop Video on how to run a Little Smash Guys Workshop](Video Link Here)
 [Click here to view workshop walkthrough pdf file](/documents/tutorial%20materials/Scratch%20Workshop%20Walkthrough.pdf)
 
 [Our Game Workshop Video](https://youtu.be/Mtsre0iMStM)
