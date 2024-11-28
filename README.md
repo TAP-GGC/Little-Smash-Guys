@@ -32,7 +32,7 @@ You can select from a range of audiences or a single auidience. Examples:
 * <b>Difficulty Level:</b> Advanced
 * <b>Target Audience:</b> K12 - College
 * <b>Duration of Workshop:</b> 60 Minutes
-* <b>Needed Materials:</b> 2 Controllers, Unity, Little Smash Guys
+* <b>Needed Materials:</b> 2 Controllers, 1 Keyboard, Unity, and Little Smash Guys
 * <b>Learning Outcomes:</b> The primary goal of this project is to teach participants Unity alongside basic C# code to customize their own game experience.
 * <b>Your Main Technology</b> Unity a game engine, that is a powerful yet simple tool for game creation.
 * [Technology Ambassador Program](https://tapggc.org/) <b>(TAP)</b> is a project-based class that provides a collaborative environment for students to work with their fellow classmates on a semester-long project using technologies of their choice. TAP strives to increase participation in IT through numerous outreach activities and workshops that are designed to showcase the creative and fun side of technology.
