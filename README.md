@@ -71,7 +71,8 @@ Participants start by playing Little Smash Guys, a fast-paced 2-4 player battle 
 
 1. <b>TAP Expo</b>, March 14th, 2019, Georgia Gwinnett College: to promote the IT field and encourage college students to sign up for TAP.
 2. <b>Atlanta Science Festival</b>, March 23rd, 2019, Georgia Gwinnett College: Promoting IT to youth 
-3. <b>Class Workshops</b>, Spring 2019, Georgia Gwinnett College: to promote the IT field to non-IT students.
+3. <b>Super Saturday Series</b>, April 13th, 2019, Georgia Gwinnett College: to promote the IT field to non-IT students.
+4. <b>Class Workshops</b>, Spring 2019, Georgia Gwinnett College: to promote the IT field to non-IT students.
 
 ## :mag_right: Similar Projects
 If you're interested in more workshops that utilize Unity, check out [Slice-IT!](https://github.com/TAP-GGC/SliceIT)!
