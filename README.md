@@ -2,7 +2,7 @@
 <!-- This section is where you will replace the link to your transparent logo, the title of your project, and the very short desciptor of your project -->
 <!-- If you used Canva to make your icon and don't want to pay for a background remover, you can use the website https://www.remove.bg/ to do so -->
 <p align="center">
-  <img alt="Template Logo" src="media/logos/Transparent Version.png" width="" height="350" />
+  <img alt="Template Logo" src="https://github.com/TAP-GGC/Little-Smash-Guys/blob/ad263d75b5a98933ae9f38c770d56f413985bdac/media/logos/lsg_logo_TRANSPARENT.png" width="" height="350" />
   <h1 align="center">Little Smash Guys: A game that Showcases Chaos and Strategy in a Two to Four-Player Free-for-All Battle.</h1>
   <p align="center">A project for the youth by team Little Smash Guys </p>
 </p>
