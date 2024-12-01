@@ -32,7 +32,7 @@ You can select from a range of audiences or a single auidience. Examples:
 * <b>Difficulty Level:</b> Advanced
 * <b>Target Audience:</b> K12 - College
 * <b>Duration of Workshop:</b> 60 Minutes
-* <b>Needed Materials:</b> 2 Controllers, Unity, Little Smash Guys
+* <b>Needed Materials:</b> 2 Controllers, 1 Keyboard, Unity, and Little Smash Guys
 * <b>Learning Outcomes:</b> The primary goal of this project is to teach participants Unity alongside basic C# code to customize their own game experience.
 * <b>Your Main Technology</b> Unity a game engine, that is a powerful yet simple tool for game creation.
 * [Technology Ambassador Program](https://tapggc.org/) <b>(TAP)</b> is a project-based class that provides a collaborative environment for students to work with their fellow classmates on a semester-long project using technologies of their choice. TAP strives to increase participation in IT through numerous outreach activities and workshops that are designed to showcase the creative and fun side of technology.
@@ -71,7 +71,8 @@ Participants start by playing Little Smash Guys, a fast-paced 2-4 player battle 
 
 1. <b>TAP Expo</b>, March 14th, 2019, Georgia Gwinnett College: to promote the IT field and encourage college students to sign up for TAP.
 2. <b>Atlanta Science Festival</b>, March 23rd, 2019, Georgia Gwinnett College: Promoting IT to youth 
-3. <b>Class Workshops</b>, Spring 2019, Georgia Gwinnett College: to promote the IT field to non-IT students.
+3. <b>Super Saturday Series</b>, April 13th, 2019, Georgia Gwinnett College: to promote the IT field to non-IT students.
+4. <b>Class Workshops</b>, Spring 2019, Georgia Gwinnett College: to promote the IT field to non-IT students.
 
 ## :mag_right: Similar Projects
 If you're interested in more workshops that utilize Unity, check out [Slice-IT!](https://github.com/TAP-GGC/SliceIT)!
@@ -94,8 +95,6 @@ If you're interested in more workshops that utilize Unity, check out [Slice-IT!]
 [Unity Hub Install](https://github.com/TAP-GGC/Little-Smash-Guys/blob/d005490d119869d2c3d81afca5b89aa43d15a7d4/media/videos/Unity%20Hub%20Installation%20Video.mp4)
 <!-- if your project uses scratch, you can reuse any of these instructions (be sure to include CS First alternatives) -->
 
-### Getting to the game 
-[Click here to view instructions](/documents/tutorial%20materials/Getting%20to%20the%20Game.md)
 
 ## Usage 
 Xbox Controls
@@ -116,9 +115,11 @@ P2 Controls
 4. Press the Period Key to attack.
 
 ## Short Demo Instructions 
-[Demo Video on how to install and play our game](https://github.com/TAP-GGC/Little-Smash-Guys/blob/d005490d119869d2c3d81afca5b89aa43d15a7d4/media/videos/Unity%20Hub%20Installation%20Video.mp4)
+[Demo Video on how to install and play our game](Video Link Here)
+[Click here to view instructions](https://github.com/TAP-GGC/Little-Smash-Guys/blob/0a8d931e48b042584bfe256e488536b2e437f22a/documents/tutorial%20materials/Little%20Smash%20Guys%20Short%20Demo.pdf)
 
 ## Workshop Instructions 
+[Workshop Video on how to run a Little Smash Guys Workshop](Video Link Here)
 [Click here to view workshop walkthrough pdf file](/documents/tutorial%20materials/Scratch%20Workshop%20Walkthrough.pdf)
 
 [Our Game Workshop Video](https://youtu.be/Mtsre0iMStM)
